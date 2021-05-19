@@ -14,7 +14,7 @@ My name is Faith, a lady who strives to reach her goals no matter the blockers f
 |1|Drawing|
 |2|Reading novels|
 |3|Watching movies|
-
+|4|Watching Comedies|
 ## Setup/Installation Requirements
 Project is created with:
  Visual Studio code
