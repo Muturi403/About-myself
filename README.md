@@ -28,7 +28,7 @@ Project is created with:
 ## Known Bugs
 There are no bugs.
 ## Technologies Used
-In the application we used visual studio code as the platform to make the application,the languages used are CSS,HTML; where CSS is used  to design the page layout like aligning the image using flex,ifloats,making the image to be positioned in a desired position on the page and putting on a desired background color,HTML helped in structuring the application step by step.
+In the application we used visual studio code as the platform to make the application,the languages used are CSS,HTML; where CSS is used  to design the page layout like aligning the image using flex,floats,making the image to be positioned in a desired position on the page and putting on a desired background color,HTML helped in structuring the application step by step.
 ## Support and contact details
 Email : fayshiks1234@gmail.com
 ## License
