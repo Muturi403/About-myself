@@ -14,7 +14,7 @@ The different projects i have worked on so far at moringa:
 
 |Project name|Link|
 |---|---|
-|My favourite band|git@github.com:Muturi403/My-favourite-band..git|
+|My favorite band|git@github.com:Muturi403/My-favorite-band..git|
 |Anitas Kitchen|git@github.com:Muturi403/Anitas-Kitchen.git|
 
 ## Setup/Installation Requirements
